@@ -6,5 +6,4 @@ The hungry skunk likes good eggs.
 
 ```
 ./bot.py --token xoxb-... --channel-id C04...
-
 ```
